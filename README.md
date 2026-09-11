@@ -20,6 +20,16 @@ python scripts/run_all.py
 python scripts/robinhood_trending_crypto.py --top 15
 ```
 
+## Desktop widget (always-on-top window)
+Small tkinter window showing the top 10 trending coins from `latest.json`,
+auto-refreshing every 5 minutes. Stdlib only.
+```powershell
+python scripts/crypto_widget.py            # open now
+python scripts/crypto_widget.py --check    # headless preview, no window
+powershell -ExecutionPolicy Bypass -File scripts/Register-WidgetStartup.ps1  # start at login
+```
+Remove auto-start: delete `CryptoWidget` from `shell:startup`.
+
 ## Schedule: GitHub Actions (runs even when PC is off)
 1. `git add .; git commit -m "add hourly crypto automation"; git push`
 2. Actions workflow `.github/workflows/hourly-automations.yml` runs at :05 UTC hourly and commits `data/`.
