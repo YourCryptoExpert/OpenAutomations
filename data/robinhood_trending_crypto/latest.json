@@ -1,143 +1,143 @@
 {
-  "timestamp_utc": "2026-09-11T16:56:25.528798+00:00",
+  "timestamp_utc": "2026-09-11T19:28:36.474998+00:00",
   "source": "robinhood.com public marketdata (nummus + api.robinhood.com)",
   "tradable_count": 90,
   "quoted_count": 90,
   "trending_top": [
     {
       "symbol": "ZEC-USD",
-      "mark_price": 1190.13723015,
-      "change_pct_vs_open": 11.5406,
+      "mark_price": 1169.27482052,
+      "change_pct_vs_open": 9.5853,
       "url": "https://robinhood.com/us/en/crypto/zec"
     },
     {
-      "symbol": "AERO-USD",
-      "mark_price": 0.60652489,
-      "change_pct_vs_open": 11.5044,
-      "url": "https://robinhood.com/us/en/crypto/aero"
-    },
-    {
       "symbol": "CASHCAT-USD",
-      "mark_price": 0.184403165,
-      "change_pct_vs_open": 9.407,
+      "mark_price": 0.182189395,
+      "change_pct_vs_open": 8.7156,
       "url": "https://robinhood.com/us/en/crypto/cashcat"
     },
     {
-      "symbol": "NEAR-USD",
-      "mark_price": 2.60050623,
-      "change_pct_vs_open": 7.4221,
-      "url": "https://robinhood.com/us/en/crypto/near"
-    },
-    {
-      "symbol": "SKR-USD",
-      "mark_price": 0.017598305,
-      "change_pct_vs_open": -7.2607,
-      "url": "https://robinhood.com/us/en/crypto/skr"
-    },
-    {
-      "symbol": "WLFI-USD",
-      "mark_price": 0.0521481,
-      "change_pct_vs_open": -6.8058,
-      "url": "https://robinhood.com/us/en/crypto/wlfi"
-    },
-    {
-      "symbol": "LIT-USD",
-      "mark_price": 4.671648805,
-      "change_pct_vs_open": 6.366,
-      "url": "https://robinhood.com/us/en/crypto/lit"
-    },
-    {
-      "symbol": "STRK-USD",
-      "mark_price": 0.0302644,
-      "change_pct_vs_open": 6.122,
-      "url": "https://robinhood.com/us/en/crypto/strk"
-    },
-    {
-      "symbol": "XCN-USD",
-      "mark_price": 0.00422138,
-      "change_pct_vs_open": 6.0267,
-      "url": "https://robinhood.com/us/en/crypto/xcn"
-    },
-    {
-      "symbol": "ETH-USD",
-      "mark_price": 2577.813761555,
-      "change_pct_vs_open": 5.3702,
-      "url": "https://robinhood.com/us/en/crypto/eth"
-    },
-    {
-      "symbol": "SKY-USD",
-      "mark_price": 0.062718445,
-      "change_pct_vs_open": 5.1064,
-      "url": "https://robinhood.com/us/en/crypto/sky"
-    },
-    {
-      "symbol": "JTO-USD",
-      "mark_price": 0.434961655,
-      "change_pct_vs_open": 4.9864,
-      "url": "https://robinhood.com/us/en/crypto/jto"
-    },
-    {
       "symbol": "ATOM-USD",
-      "mark_price": 1.682039015,
-      "change_pct_vs_open": -4.7785,
+      "mark_price": 1.6425005,
+      "change_pct_vs_open": -7.0168,
       "url": "https://robinhood.com/us/en/crypto/atom"
     },
     {
+      "symbol": "AERO-USD",
+      "mark_price": 0.581470475,
+      "change_pct_vs_open": 6.8984,
+      "url": "https://robinhood.com/us/en/crypto/aero"
+    },
+    {
       "symbol": "DOT-USD",
-      "mark_price": 1.06873305,
-      "change_pct_vs_open": -4.756,
+      "mark_price": 1.046672715,
+      "change_pct_vs_open": -6.722,
       "url": "https://robinhood.com/us/en/crypto/dot"
     },
     {
+      "symbol": "SKR-USD",
+      "mark_price": 0.017848675,
+      "change_pct_vs_open": -5.9413,
+      "url": "https://robinhood.com/us/en/crypto/skr"
+    },
+    {
+      "symbol": "XCN-USD",
+      "mark_price": 0.00421677,
+      "change_pct_vs_open": 5.9109,
+      "url": "https://robinhood.com/us/en/crypto/xcn"
+    },
+    {
+      "symbol": "XTZ-USD",
+      "mark_price": 0.252079065,
+      "change_pct_vs_open": -5.3045,
+      "url": "https://robinhood.com/us/en/crypto/xtz"
+    },
+    {
+      "symbol": "BILL-USD",
+      "mark_price": 0.01343038,
+      "change_pct_vs_open": 5.2347,
+      "url": "https://robinhood.com/us/en/crypto/bill"
+    },
+    {
+      "symbol": "NEAR-USD",
+      "mark_price": 2.524777425,
+      "change_pct_vs_open": 4.2939,
+      "url": "https://robinhood.com/us/en/crypto/near"
+    },
+    {
+      "symbol": "ETH-USD",
+      "mark_price": 2546.47014398,
+      "change_pct_vs_open": 4.089,
+      "url": "https://robinhood.com/us/en/crypto/eth"
+    },
+    {
+      "symbol": "ZRO-USD",
+      "mark_price": 0.993830355,
+      "change_pct_vs_open": -4.0459,
+      "url": "https://robinhood.com/us/en/crypto/zro"
+    },
+    {
+      "symbol": "WLFI-USD",
+      "mark_price": 0.053782595,
+      "change_pct_vs_open": -3.8848,
+      "url": "https://robinhood.com/us/en/crypto/wlfi"
+    },
+    {
+      "symbol": "ASTER-USD",
+      "mark_price": 0.67913458,
+      "change_pct_vs_open": -3.7778,
+      "url": "https://robinhood.com/us/en/crypto/aster"
+    },
+    {
       "symbol": "ZORA-USD",
-      "mark_price": 0.008296245,
-      "change_pct_vs_open": 4.5012,
+      "mark_price": 0.00822457,
+      "change_pct_vs_open": 3.5984,
       "url": "https://robinhood.com/us/en/crypto/zora"
     }
   ],
   "top_gainers_5": [
     {
       "symbol": "ZEC-USD",
-      "change_pct": 11.5406
-    },
-    {
-      "symbol": "AERO-USD",
-      "change_pct": 11.5044
+      "change_pct": 9.5853
     },
     {
       "symbol": "CASHCAT-USD",
-      "change_pct": 9.407
+      "change_pct": 8.7156
     },
     {
-      "symbol": "NEAR-USD",
-      "change_pct": 7.4221
+      "symbol": "AERO-USD",
+      "change_pct": 6.8984
     },
     {
-      "symbol": "LIT-USD",
-      "change_pct": 6.366
+      "symbol": "XCN-USD",
+      "change_pct": 5.9109
+    },
+    {
+      "symbol": "BILL-USD",
+      "change_pct": 5.2347
     }
   ],
   "top_losers_5": [
     {
-      "symbol": "SKR-USD",
-      "change_pct": -7.2607
-    },
-    {
-      "symbol": "WLFI-USD",
-      "change_pct": -6.8058
-    },
-    {
       "symbol": "ATOM-USD",
-      "change_pct": -4.7785
+      "change_pct": -7.0168
     },
     {
       "symbol": "DOT-USD",
-      "change_pct": -4.756
+      "change_pct": -6.722
+    },
+    {
+      "symbol": "SKR-USD",
+      "change_pct": -5.9413
     },
     {
       "symbol": "XTZ-USD",
-      "change_pct": -3.3
+      "change_pct": -5.3045
+    },
+    {
+      "symbol": "ZRO-USD",
+      "change_pct": -4.0459
     }
   ],
-  "csv": "data/robinhood_trending_crypto/2026-09-11_16-56-UTC.csv"
+  "csv": "data/robinhood_trending_crypto/2026-09-11_19-28-UTC.csv"
 }
