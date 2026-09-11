@@ -85,6 +85,16 @@ class Widget:
         self.header = tk.Label(root, bg=BG, fg=DIM, font=("Segoe UI", 8), anchor="w")
         self.header.pack(fill="x", padx=10, pady=(8, 2))
 
+        cols = tk.Frame(root, bg=BG)
+        cols.pack(fill="x", padx=10, pady=(2, 0))
+        tk.Label(cols, text="Token Pair", bg=BG, fg=FG, font=("Segoe UI", 11, "bold"),
+                 width=11, anchor="w").pack(side="left")
+        tk.Label(cols, text="PnL", bg=BG, fg=FG, font=("Segoe UI", 11, "bold"),
+                 width=8, anchor="e").pack(side="right")
+        tk.Label(cols, text="Price", bg=BG, fg=FG, font=("Segoe UI", 11, "bold"),
+                 width=13, anchor="e").pack(side="right")
+        tk.Frame(root, bg="#3a3a3a", height=1).pack(fill="x", padx=10, pady=(5, 3))
+
         self.rows_frame = tk.Frame(root, bg=BG)
         self.rows_frame.pack(fill="both", expand=True, padx=10)
         self.row_labels: list[tuple[tk.Label, tk.Label, tk.Label]] = []
