@@ -1,143 +1,143 @@
 {
-  "timestamp_utc": "2026-09-11T22:18:53.873196+00:00",
+  "timestamp_utc": "2026-09-12T00:56:41.375966+00:00",
   "source": "robinhood.com public marketdata (nummus + api.robinhood.com)",
   "tradable_count": 90,
   "quoted_count": 90,
   "trending_top": [
     {
-      "symbol": "XCN-USD",
-      "mark_price": 0.004699745,
-      "change_pct_vs_open": 18.0416,
-      "url": "https://robinhood.com/us/en/crypto/xcn"
-    },
-    {
-      "symbol": "ZEC-USD",
-      "mark_price": 1165.40090807,
-      "change_pct_vs_open": 9.2223,
-      "url": "https://robinhood.com/us/en/crypto/zec"
-    },
-    {
-      "symbol": "DOT-USD",
-      "mark_price": 1.0356546,
-      "change_pct_vs_open": -7.7039,
-      "url": "https://robinhood.com/us/en/crypto/dot"
-    },
-    {
-      "symbol": "ATOM-USD",
-      "mark_price": 1.63976635,
-      "change_pct_vs_open": -7.1716,
-      "url": "https://robinhood.com/us/en/crypto/atom"
-    },
-    {
-      "symbol": "XTZ-USD",
-      "mark_price": 0.2507924,
-      "change_pct_vs_open": -5.7879,
-      "url": "https://robinhood.com/us/en/crypto/xtz"
-    },
-    {
-      "symbol": "CASHCAT-USD",
-      "mark_price": 0.178036135,
-      "change_pct_vs_open": 5.6294,
-      "url": "https://robinhood.com/us/en/crypto/cashcat"
-    },
-    {
       "symbol": "BILL-USD",
-      "mark_price": 0.013436295,
-      "change_pct_vs_open": 5.281,
+      "mark_price": 0.014180375,
+      "change_pct_vs_open": 11.1113,
       "url": "https://robinhood.com/us/en/crypto/bill"
     },
     {
-      "symbol": "AERO-USD",
-      "mark_price": 0.57182517,
-      "change_pct_vs_open": 5.1252,
-      "url": "https://robinhood.com/us/en/crypto/aero"
+      "symbol": "ZEC-USD",
+      "mark_price": 1157.8199971,
+      "change_pct_vs_open": 8.5118,
+      "url": "https://robinhood.com/us/en/crypto/zec"
     },
     {
-      "symbol": "ALGO-USD",
-      "mark_price": 0.09493462,
-      "change_pct_vs_open": 5.004,
-      "url": "https://robinhood.com/us/en/crypto/algo"
+      "symbol": "XCN-USD",
+      "mark_price": 0.00431411,
+      "change_pct_vs_open": 8.3558,
+      "url": "https://robinhood.com/us/en/crypto/xcn"
     },
     {
-      "symbol": "ZRO-USD",
-      "mark_price": 0.98584784,
-      "change_pct_vs_open": -4.8166,
-      "url": "https://robinhood.com/us/en/crypto/zro"
+      "symbol": "ATOM-USD",
+      "mark_price": 1.64738432,
+      "change_pct_vs_open": -6.7403,
+      "url": "https://robinhood.com/us/en/crypto/atom"
     },
     {
-      "symbol": "ARB-USD",
-      "mark_price": 0.139256865,
-      "change_pct_vs_open": -4.6734,
-      "url": "https://robinhood.com/us/en/crypto/arb"
+      "symbol": "DOT-USD",
+      "mark_price": 1.0482099,
+      "change_pct_vs_open": -6.585,
+      "url": "https://robinhood.com/us/en/crypto/dot"
     },
     {
       "symbol": "RE-USD",
-      "mark_price": 0.44711068,
-      "change_pct_vs_open": 4.6572,
+      "mark_price": 0.453553955,
+      "change_pct_vs_open": 6.1654,
       "url": "https://robinhood.com/us/en/crypto/re"
     },
     {
-      "symbol": "ENA-USD",
-      "mark_price": 0.13933318,
-      "change_pct_vs_open": -4.5712,
-      "url": "https://robinhood.com/us/en/crypto/ena"
+      "symbol": "JTO-USD",
+      "mark_price": 0.43687741,
+      "change_pct_vs_open": 5.4488,
+      "url": "https://robinhood.com/us/en/crypto/jto"
     },
     {
-      "symbol": "ASTER-USD",
-      "mark_price": 0.6755461,
-      "change_pct_vs_open": -4.2863,
-      "url": "https://robinhood.com/us/en/crypto/aster"
+      "symbol": "ZRO-USD",
+      "mark_price": 0.982707615,
+      "change_pct_vs_open": -5.1198,
+      "url": "https://robinhood.com/us/en/crypto/zro"
     },
     {
-      "symbol": "SKR-USD",
-      "mark_price": 0.01822309,
-      "change_pct_vs_open": -3.9682,
-      "url": "https://robinhood.com/us/en/crypto/skr"
+      "symbol": "AERO-USD",
+      "mark_price": 0.57121004,
+      "change_pct_vs_open": 5.0121,
+      "url": "https://robinhood.com/us/en/crypto/aero"
+    },
+    {
+      "symbol": "XTZ-USD",
+      "mark_price": 0.253112285,
+      "change_pct_vs_open": -4.9164,
+      "url": "https://robinhood.com/us/en/crypto/xtz"
+    },
+    {
+      "symbol": "ZORA-USD",
+      "mark_price": 0.00823372,
+      "change_pct_vs_open": 3.7136,
+      "url": "https://robinhood.com/us/en/crypto/zora"
+    },
+    {
+      "symbol": "INJ-USD",
+      "mark_price": 5.7890126,
+      "change_pct_vs_open": -3.5175,
+      "url": "https://robinhood.com/us/en/crypto/inj"
+    },
+    {
+      "symbol": "AVNT-USD",
+      "mark_price": 0.101338765,
+      "change_pct_vs_open": 3.5094,
+      "url": "https://robinhood.com/us/en/crypto/avnt"
+    },
+    {
+      "symbol": "NEAR-USD",
+      "mark_price": 2.3360039,
+      "change_pct_vs_open": -3.504,
+      "url": "https://robinhood.com/us/en/crypto/near"
+    },
+    {
+      "symbol": "SKY-USD",
+      "mark_price": 0.06170718,
+      "change_pct_vs_open": 3.4116,
+      "url": "https://robinhood.com/us/en/crypto/sky"
     }
   ],
   "top_gainers_5": [
     {
-      "symbol": "XCN-USD",
-      "change_pct": 18.0416
+      "symbol": "BILL-USD",
+      "change_pct": 11.1113
     },
     {
       "symbol": "ZEC-USD",
-      "change_pct": 9.2223
+      "change_pct": 8.5118
     },
     {
-      "symbol": "CASHCAT-USD",
-      "change_pct": 5.6294
+      "symbol": "XCN-USD",
+      "change_pct": 8.3558
     },
     {
-      "symbol": "BILL-USD",
-      "change_pct": 5.281
+      "symbol": "RE-USD",
+      "change_pct": 6.1654
     },
     {
-      "symbol": "AERO-USD",
-      "change_pct": 5.1252
+      "symbol": "JTO-USD",
+      "change_pct": 5.4488
     }
   ],
   "top_losers_5": [
     {
-      "symbol": "DOT-USD",
-      "change_pct": -7.7039
-    },
-    {
       "symbol": "ATOM-USD",
-      "change_pct": -7.1716
+      "change_pct": -6.7403
     },
     {
-      "symbol": "XTZ-USD",
-      "change_pct": -5.7879
+      "symbol": "DOT-USD",
+      "change_pct": -6.585
     },
     {
       "symbol": "ZRO-USD",
-      "change_pct": -4.8166
+      "change_pct": -5.1198
     },
     {
-      "symbol": "ARB-USD",
-      "change_pct": -4.6734
+      "symbol": "XTZ-USD",
+      "change_pct": -4.9164
+    },
+    {
+      "symbol": "INJ-USD",
+      "change_pct": -3.5175
     }
   ],
-  "csv": "data/robinhood_trending_crypto/2026-09-11_22-18-UTC.csv"
+  "csv": "data/robinhood_trending_crypto/2026-09-12_00-56-UTC.csv"
 }
