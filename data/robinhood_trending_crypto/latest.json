@@ -1,143 +1,143 @@
 {
-  "timestamp_utc": "2026-09-12T16:48:24.607136+00:00",
+  "timestamp_utc": "2026-09-12T18:59:59.044214+00:00",
   "source": "robinhood.com public marketdata (nummus + api.robinhood.com)",
   "tradable_count": 90,
   "quoted_count": 90,
   "trending_top": [
     {
+      "symbol": "PYTH-USD",
+      "mark_price": 0.05545372,
+      "change_pct_vs_open": 6.546,
+      "url": "https://robinhood.com/us/en/crypto/pyth"
+    },
+    {
+      "symbol": "ZRX-USD",
+      "mark_price": 0.109683895,
+      "change_pct_vs_open": 6.0946,
+      "url": "https://robinhood.com/us/en/crypto/zrx"
+    },
+    {
+      "symbol": "RAY-USD",
+      "mark_price": 1.51736207,
+      "change_pct_vs_open": -5.9439,
+      "url": "https://robinhood.com/us/en/crypto/ray"
+    },
+    {
+      "symbol": "XCN-USD",
+      "mark_price": 0.004196825,
+      "change_pct_vs_open": -5.6616,
+      "url": "https://robinhood.com/us/en/crypto/xcn"
+    },
+    {
       "symbol": "WLFI-USD",
-      "mark_price": 0.05864925,
-      "change_pct_vs_open": 7.0945,
+      "mark_price": 0.0570288,
+      "change_pct_vs_open": 4.1356,
       "url": "https://robinhood.com/us/en/crypto/wlfi"
     },
     {
       "symbol": "ZRO-USD",
-      "mark_price": 1.045309495,
-      "change_pct_vs_open": 5.6183,
+      "mark_price": 1.025092385,
+      "change_pct_vs_open": 3.5755,
       "url": "https://robinhood.com/us/en/crypto/zro"
     },
     {
-      "symbol": "ZRX-USD",
-      "mark_price": 0.108677285,
-      "change_pct_vs_open": 5.1209,
-      "url": "https://robinhood.com/us/en/crypto/zrx"
-    },
-    {
-      "symbol": "XCN-USD",
-      "mark_price": 0.004222745,
-      "change_pct_vs_open": -5.0789,
-      "url": "https://robinhood.com/us/en/crypto/xcn"
-    },
-    {
-      "symbol": "UNI-USD",
-      "mark_price": 6.445801075,
-      "change_pct_vs_open": 4.77,
-      "url": "https://robinhood.com/us/en/crypto/uni"
-    },
-    {
-      "symbol": "RAY-USD",
-      "mark_price": 1.53736965,
-      "change_pct_vs_open": -4.7037,
-      "url": "https://robinhood.com/us/en/crypto/ray"
-    },
-    {
-      "symbol": "PYTH-USD",
-      "mark_price": 0.054416785,
-      "change_pct_vs_open": 4.5537,
-      "url": "https://robinhood.com/us/en/crypto/pyth"
-    },
-    {
-      "symbol": "CHIP-USD",
-      "mark_price": 0.049224405,
-      "change_pct_vs_open": 3.7002,
-      "url": "https://robinhood.com/us/en/crypto/chip"
-    },
-    {
       "symbol": "JTO-USD",
-      "mark_price": 0.448052105,
-      "change_pct_vs_open": 3.0243,
+      "mark_price": 0.44747817,
+      "change_pct_vs_open": 2.8923,
       "url": "https://robinhood.com/us/en/crypto/jto"
     },
     {
       "symbol": "SNX-USD",
-      "mark_price": 0.213186435,
-      "change_pct_vs_open": 2.1326,
+      "mark_price": 0.214496735,
+      "change_pct_vs_open": 2.7603,
       "url": "https://robinhood.com/us/en/crypto/snx"
     },
     {
-      "symbol": "WIF-USD",
-      "mark_price": 0.192232345,
-      "change_pct_vs_open": -2.0467,
-      "url": "https://robinhood.com/us/en/crypto/wif"
+      "symbol": "UNI-USD",
+      "mark_price": 6.307181155,
+      "change_pct_vs_open": 2.5169,
+      "url": "https://robinhood.com/us/en/crypto/uni"
+    },
+    {
+      "symbol": "W-USD",
+      "mark_price": 0.010010055,
+      "change_pct_vs_open": 2.4083,
+      "url": "https://robinhood.com/us/en/crypto/w"
+    },
+    {
+      "symbol": "MORPHO-USD",
+      "mark_price": 2.225373425,
+      "change_pct_vs_open": -2.3619,
+      "url": "https://robinhood.com/us/en/crypto/morpho"
+    },
+    {
+      "symbol": "INJ-USD",
+      "mark_price": 6.0809637,
+      "change_pct_vs_open": 2.3134,
+      "url": "https://robinhood.com/us/en/crypto/inj"
     },
     {
       "symbol": "MNT-USD",
-      "mark_price": 0.571194385,
-      "change_pct_vs_open": -2.0351,
+      "mark_price": 0.56983981,
+      "change_pct_vs_open": -2.2675,
       "url": "https://robinhood.com/us/en/crypto/mnt"
     },
     {
-      "symbol": "EIGEN-USD",
-      "mark_price": 0.219013235,
-      "change_pct_vs_open": 1.898,
-      "url": "https://robinhood.com/us/en/crypto/eigen"
+      "symbol": "WIF-USD",
+      "mark_price": 0.1918705,
+      "change_pct_vs_open": -2.2311,
+      "url": "https://robinhood.com/us/en/crypto/wif"
     },
     {
-      "symbol": "ZORA-USD",
-      "mark_price": 0.008194675,
-      "change_pct_vs_open": -1.829,
-      "url": "https://robinhood.com/us/en/crypto/zora"
-    },
-    {
-      "symbol": "PEPE-USD",
-      "mark_price": 3.4e-06,
-      "change_pct_vs_open": 1.8071,
-      "url": "https://robinhood.com/us/en/crypto/pepe"
+      "symbol": "CHIP-USD",
+      "mark_price": 0.04846283,
+      "change_pct_vs_open": 2.0958,
+      "url": "https://robinhood.com/us/en/crypto/chip"
     }
   ],
   "top_gainers_5": [
     {
-      "symbol": "WLFI-USD",
-      "change_pct": 7.0945
-    },
-    {
-      "symbol": "ZRO-USD",
-      "change_pct": 5.6183
+      "symbol": "PYTH-USD",
+      "change_pct": 6.546
     },
     {
       "symbol": "ZRX-USD",
-      "change_pct": 5.1209
+      "change_pct": 6.0946
     },
     {
-      "symbol": "UNI-USD",
-      "change_pct": 4.77
+      "symbol": "WLFI-USD",
+      "change_pct": 4.1356
     },
     {
-      "symbol": "PYTH-USD",
-      "change_pct": 4.5537
+      "symbol": "ZRO-USD",
+      "change_pct": 3.5755
+    },
+    {
+      "symbol": "JTO-USD",
+      "change_pct": 2.8923
     }
   ],
   "top_losers_5": [
     {
-      "symbol": "XCN-USD",
-      "change_pct": -5.0789
-    },
-    {
       "symbol": "RAY-USD",
-      "change_pct": -4.7037
+      "change_pct": -5.9439
     },
     {
-      "symbol": "WIF-USD",
-      "change_pct": -2.0467
+      "symbol": "XCN-USD",
+      "change_pct": -5.6616
+    },
+    {
+      "symbol": "MORPHO-USD",
+      "change_pct": -2.3619
     },
     {
       "symbol": "MNT-USD",
-      "change_pct": -2.0351
+      "change_pct": -2.2675
     },
     {
-      "symbol": "ZORA-USD",
-      "change_pct": -1.829
+      "symbol": "WIF-USD",
+      "change_pct": -2.2311
     }
   ],
-  "csv": "data/robinhood_trending_crypto/2026-09-12_16-48-UTC.csv"
+  "csv": "data/robinhood_trending_crypto/2026-09-12_18-59-UTC.csv"
 }
